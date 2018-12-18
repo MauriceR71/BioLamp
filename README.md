@@ -1,6 +1,6 @@
 # BioLamp
 
-An exploratory project on the synthesis of computer and biological algorithms
+An exploratory project on the synthesis of computer and biological algorithms.
 Inspired by Christopher Voigt's work in synthetic biology
 
 Questions:
